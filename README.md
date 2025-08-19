@@ -21,12 +21,12 @@ This project is built for learning authentication flow using React (frontend) an
 
 ⚙️ Installation & Setup
 
-1️⃣ Backend setup
+1️)Backend setup
 cd backend
 npm install
 npm run dev
 
-2️⃣ Frontend setup
+2)Frontend setup
 cd frontend
 npm install
 npm start
